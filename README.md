@@ -1,0 +1,2 @@
+# Sentimental-Analysis
+Sentimental Analysis is a small simple program refers to the use of natural language processing and text analysis. A basic task in sentiment analysis is classifying the polarity of a given text at the document or sentence whether the expressed opinion in a document, a sentence or an entity feature/aspect is positive, negative, or neutral by looking at emotional states such as "angry", "sad", and "happy".
